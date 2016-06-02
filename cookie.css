@@ -4,7 +4,10 @@ body {
 a {
 	color: #900;
 }
-div#border {
+span#pretty {
+	color: #887;
+}
+.border {
 	border: 2px solid black;
 	padding: 30px;
 }
