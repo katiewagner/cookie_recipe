@@ -1,0 +1,10 @@
+body {
+	background-color: #FEE;
+}
+a {
+	color: #900;
+}
+div#border {
+	border: 2px solid black;
+	padding: 30px;
+}
